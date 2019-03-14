@@ -65,8 +65,6 @@ function myGifInfo(event) {
                 });
             }
         }
-    }, function (e) {
-        alert(JSON.stringify(e));
     });
 }
 //function to display the buttons
